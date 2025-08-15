@@ -11,7 +11,7 @@ I'm passionate about statistical modeling, data science, and reproducible resear
 
 ## 📚 Featured Repositories
 - **academic-statistical-modeling**: Reference materials and homework for statistical learning.
-- **[Add your other key repos here]**
+- **[baseball-analytics](https://github.com/TheThirtyFour/baseball-analytics)**: Tools and analyses for baseball data, including advanced metrics, visualizations, and statistical modeling.
 
 ## 🚀 Skills
 - R, Python, SQL
