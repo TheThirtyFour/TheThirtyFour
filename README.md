@@ -9,7 +9,7 @@ I'm passionate about statistical modeling, data science, and reproducible resear
 - Reproducible research workflows
 - Academic collaboration
 
-## 🛠️ [Code Catalog](https://github.com/TheThirtyFour/code-catalog)  
+## 🛠️ [My Code Catalog](https://github.com/TheThirtyFour/code-catalog)  
 - [Data Analysis Projects](#data-analysis-projects)
 - [Utility Libraries](#utility-libraries)
 - [Web Applications](#web-applications)
