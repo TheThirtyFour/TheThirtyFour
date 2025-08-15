@@ -9,12 +9,7 @@ I'm passionate about statistical modeling, data science, and reproducible resear
 - Reproducible research workflows
 - Academic collaboration
 
-## ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) Interests
-- Statistical learning & modeling
-- Data analysis in R and Python
-- Reproducible research workflows
-- Academic collaboration
+## 🛠️ [Code Catalog](https://github.com/TheThirtyFour/code-catalog)
 
 ## 📚 Featured Repositories
 - **[academic-statistical-modeling](https://github.com/TheThirtyFour/academic-statistical-modeling)**: Reference materials and homework for statistical learning.
