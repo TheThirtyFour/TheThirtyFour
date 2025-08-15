@@ -10,7 +10,7 @@ I'm passionate about statistical modeling, data science, and reproducible resear
 - Academic collaboration
 
 ## 📚 Featured Repositories
-- **academic-statistical-modeling**: Reference materials and homework for statistical learning.
+- **[academic-statistical-modeling](https://github.com/TheThirtyFour/academic-statistical-modeling)**: Reference materials and homework for statistical learning.
 - **[baseball-analytics](https://github.com/TheThirtyFour/baseball-analytics)**: Tools and analyses for baseball data, including advanced metrics, visualizations, and statistical modeling.
 
 ## 🚀 Skills
